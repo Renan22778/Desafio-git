@@ -1,20 +1,19 @@
-# Desafio-git
+# Rainbow Six Siege na season 4
 Desafio de projeto sobre Git/Github
 
-## Lista de Operadores mais utilizados da Season 4:
+## Principais links:
 
-### Attackers:
+- [Gráficos de balanceamento](https://www.ubisoft.com/pt-br/game/rainbow-six/siege/news-updates/1v9NZlzMM76sXjqk5ToKRe/notas-do-designer-da-prtemporada-y7s1) 
 
-#### - Finka 
-#### - Iana
-#### - Twitch
-#### - Sledge
-#### - Ace
+- [Consulte seu progresso](https://tabstats.com/siege)
 
-### Defenders:
+- [Onde assistir partidas oficiais](https://www.twitch.tv/rainbow6)
 
-#### - Jager
-#### - Melusi
-#### - Valkrye
-#### - Mute 
-#### - Kaid
+- [Grupo da comunidade](https://www.facebook.com/groups/rainbow6brasil)
+
+  
+
+  
+
+  
+
