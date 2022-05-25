@@ -1,0 +1,15 @@
+REESCOLHA DE ATACANTE:
+
+- Todos os jogadores no ataque podem mudar de Agente e loadout, além de local de início, durante a Fase de Preparação.
+- Reescolha de Atacante está disponível em todos os modos.
+- Sexta Escolha e Fase de Revelação são removidas do menu de configuração de Partida Personalizada.
+
+MIRAS:
+
+- Todas as miras foram renomeadas e reorganizadas.
+- Todas as armas recebem todas as miras dos seus respectivos níveis ópticos (armas que não tinham 2.5x não recebem miras 2.5x).
+- Todas as instâncias de mira Red Dot montadas em posição inferior nas armas foram alteradas para posição superior para minimizar obstrução da visão.
+
+CÂMERAS EXTERNAS & DRONES:
+
+- Câmeras de Defensores (de Valkyrie, Maestro e câmeras à prova de balas) e drones de Defensores (de Echo e Mozzie) colocados em área externa vão se desconectar dez segundos após a implementação.

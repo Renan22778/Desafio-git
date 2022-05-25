@@ -1,0 +1,11 @@
+MELUSI:
+- Redução do tempo de abertura e fechamento para 0,75 s (eram 2).
+
+VALKYRIE & ZERO:
+- Câmeras Black Eye e ARGUS podem ser acessadas enquanto ainda estão no ar — no entanto, a reprodução do vídeo só vai começar quando se anexarem a uma superfície.
+
+THUNDERBIRD:
+- Estações Kona só curam se o jogador estiver com menos de 100% de saúde.
+
+KALI:
+- Removemos a penalidade em velocidade de movimentação da CSRX 300.

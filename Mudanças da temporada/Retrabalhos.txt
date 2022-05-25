@@ -1,0 +1,8 @@
+GOYO:
+
+- Mudamos O Escudo Volcán para Cânister Volcán, que deixa de ter um escudo ajustável.
+- Agora Cânister Volcán pode ser usado como gadget instalável em pisos e paredes.
+- Cânister Volcán tem uma capa à prova de balas que o protege de certos ângulos.
+- Reduzimos o dano e a destruição do Cânister Volcán.
+- Aumentamos a duração de disparo do Cânister Volcán para 20 s (eram 10).
+- Aumentamos o número de cargas do Cânister Volcán para 4 (eram 2).
